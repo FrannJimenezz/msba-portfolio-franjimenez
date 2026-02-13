@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda project metadata
+anaconda_projects/
+
+# Python cache
+__pycache__/
+*.pyc
